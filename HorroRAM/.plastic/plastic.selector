@@ -1,0 +1,4 @@
+repository "HorroRAM@Hidemi@cloud"
+  path "/"
+    br "/main"
+    co "/main"

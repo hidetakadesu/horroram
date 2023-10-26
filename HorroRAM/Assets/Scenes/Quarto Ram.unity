@@ -1352,6 +1352,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 6b540d0299fe59d47a55798c407df120, type: 2}
+    - target: {fileID: -8519920997887036775, guid: dc2da77110338dc4d9663276a4a41895,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f76d602a62c027a499afad01ef686e64, type: 2}
     - target: {fileID: -6787120010682549251, guid: dc2da77110338dc4d9663276a4a41895,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1472,6 +1477,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c5a46a0d597cd27408900ab9e9c2bdd7, type: 2}
+    - target: {fileID: 5652768293393974599, guid: dc2da77110338dc4d9663276a4a41895,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 982a1071f5b0dc14bb79e3a9476f30ee, type: 2}
     - target: {fileID: 6140627537167280549, guid: dc2da77110338dc4d9663276a4a41895,
         type: 3}
       propertyPath: m_CastShadows
@@ -1487,6 +1497,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 6b034b49d95cffe409512e266024798b, type: 2}
+    - target: {fileID: 6335602466637473643, guid: dc2da77110338dc4d9663276a4a41895,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: dd22ad84a8ad28b46b73605450ee41d9, type: 2}
     - target: {fileID: 6878276038103193739, guid: dc2da77110338dc4d9663276a4a41895,
         type: 3}
       propertyPath: m_LocalRotation.w
