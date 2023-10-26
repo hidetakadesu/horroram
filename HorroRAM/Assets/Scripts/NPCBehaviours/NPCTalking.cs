@@ -25,6 +25,7 @@ public class NPCTalking: MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerInTrigger = true;
+            
         }
     }
 
