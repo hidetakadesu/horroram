@@ -17,7 +17,7 @@ public class SairPortaFase : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Vector3.Distance(transform.position, player.transform.position) < 1.5f)
+        if (Vector3.Distance(Door.transform.position, player.transform.position) < 1.5f)
         {
             Door.SetActive(true);
             if (Input.GetKeyDown(KeyCode.E))

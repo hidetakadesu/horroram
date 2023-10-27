@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Quarto Ram.unity
+    path: Assets/Scenes/Menu.unity
+    guid: 5e53efc151bc5f9408ae9c799dd40252
+  - enabled: 1
+    path: Assets/Scenes/QuartoRam.unity
     guid: 1f335af85a10d1d41870f7aa184b560d
   - enabled: 1
     path: Assets/Scenes/Floresta.unity

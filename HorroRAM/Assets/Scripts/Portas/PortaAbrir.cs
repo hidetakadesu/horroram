@@ -8,7 +8,7 @@ public class PortaAbrir : MonoBehaviour
 {
     private GameObject player;
     public GameObject door;
-    public GameObject playcam;
+    //public GameObject playcam;
     public bool openSide;
     public bool isDoorOpen;
     public GameObject UIOpenDoor;
@@ -22,7 +22,7 @@ public class PortaAbrir : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Vector3.Distance(transform.position, player.transform.position) < 1.5f && !isDoorOpen)
+        if (Vector3.Distance(door.transform.position, player.transform.position) < 1.5f && !isDoorOpen)
         {
             UIOpenDoor.SetActive(true);
             if(openSide && Input.GetKeyDown(KeyCode.E))
